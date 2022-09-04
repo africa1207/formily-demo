@@ -7,8 +7,18 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@fast-crud/fast-crud": "^1.2.3",
+    "@fast-crud/ui-element": "^1.2.3",
+    "@lljj/vue3-form-element": "^1.13.1",
+    "@smallwei/avue": "^3.0.17",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "element-plus": "^2.2.4",
+    "elui-china-area-dht": "^2.0.0",
+    "umi-request": "^1.4.0",
+    "umi-request-progress": "^1.0.0",
+    "v-calendar": "^3.0.0-alpha.8",
+    "vue": "^3.2.13",
+    "vue3-pro-table": "^1.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
