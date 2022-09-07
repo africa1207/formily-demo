@@ -9,6 +9,9 @@
   "dependencies": {
     "@fast-crud/fast-crud": "^1.2.3",
     "@fast-crud/ui-element": "^1.2.3",
+    "@formily/core": "^2.2.2",
+    "@formily/element-plus": "^1.0.0-beta.6",
+    "@formily/vue": "^2.2.2",
     "@lljj/vue3-form-element": "^1.13.1",
     "@smallwei/avue": "^3.0.17",
     "core-js": "^3.8.3",
