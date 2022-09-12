@@ -7,6 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^2.0.9",
     "@fast-crud/fast-crud": "^1.2.3",
     "@fast-crud/ui-element": "^1.2.3",
     "@lljj/vue3-form-element": "^1.13.1",

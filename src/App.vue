@@ -1,8 +1,9 @@
 <template>
-<JsonSchemaForm />
+<MyUploadDemo />
 </template>
 
 <script lang="ts" setup>
 // import JsonSchemaForm from '@/components/JsonSchemaForm'
-import JsonSchemaForm from '@/components/Upload/UploadDemo.vue'
+// import UploadDemo from '@/components/Upload/UploadDemo.vue'
+import MyUploadDemo from '@/components/MyUpload/MyUploadDemo.vue'
 </script>

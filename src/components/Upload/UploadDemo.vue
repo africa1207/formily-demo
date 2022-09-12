@@ -11,9 +11,12 @@
 </template>
 
 <script lang="ts" setup name="UploadDemo">
+/**
+ * 此版本有问题，清空重置后还会显示，可以使用MyUpload案例
+ */
 import {onMounted, ref, h, resolveComponent} from "vue";
 // @ts-ignore
-import MyUpload from './MyUpload.js';
+import MyUpload from './Upload.js';
 
 
 type PicType = {name:string,id:string|number,url: string}
